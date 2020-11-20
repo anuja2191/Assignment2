@@ -1,0 +1,12 @@
+.vehicle {
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+    color: darkred;
+    box-shadow: 0 5px 10px rgb(60, 2, 114);
+    padding: 5px 10px 5px 15px;
+    height: 180px;
+    background-color: rgb(200, 165, 233);
+   max-width: 23%; 
+  }
+  
